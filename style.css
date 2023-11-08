@@ -1,0 +1,18 @@
+body{font-size: 16px;}
+
+
+.principal{background-color: gray;
+text-align: center;}
+
+.beneficios{text-align: center;}
+
+.negrito{color: red;}
+
+.imagem-beneficios{width: 50%;}
+
+.imagem{width: 100%;}
+
+.titulo{ padding: 20px;}
+
+.lista{display: inline-block;
+vertical-align: top;}
